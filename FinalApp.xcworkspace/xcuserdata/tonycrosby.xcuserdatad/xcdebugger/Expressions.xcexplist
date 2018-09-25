@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static PlayerHelper.MapPurchasedPlayersToPlayers(purchasedPlayers:players:):PlayerHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$0.playerId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PlayerDetailViewController.buttonPressed(_:):PlayerDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userDefaultsHelper">
+            </PersistentString>
+            <PersistentString
+               value = "purchasedPlayers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeaturedTableViewController.tableView(_:heightForRowAt:):FeaturedTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIApplication.shared.statusBarFrame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccountViewController.init(coder:):AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "players">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayerDetailViewController.viewDidLoad():PlayerDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "playerDetail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayerDetailViewController.buttonPressed(_:):PlayerDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userCanPurchasePlayer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayerDetailViewController.init(coder:):PlayerDetailViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserDefaultsHelper.GetBalance():UserDefaultsHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaults.standard">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
